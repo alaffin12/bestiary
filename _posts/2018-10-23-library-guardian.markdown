@@ -31,8 +31,6 @@ tags: [large, homebrew, cr7, homebrew]
 
 ***Regeneration.*** The library guardian regains 10 hit points at the start of its turn if it has at least 1 hit. point.
 
-***Spell Storing.*** The library guardian can store one spell within itself.  Whenever the guardian is targetted with a spell of the fourth level or lower it may, as a reaction, choose to store the spell.  A stored spell has no immediate effect, but the guardian may later cast the spell with the same paramaters (except the target) on any target within range of the spell.  The guardian may only store one spell this way and cannot store another spell until the first spell is cast.
-
 **Actions**
 
 ***Multiattack.*** The guardian makes two fist attacks.
@@ -41,4 +39,4 @@ tags: [large, homebrew, cr7, homebrew]
 
 **Reactions**
 
-***Shield.*** When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
+***Store Spell.*** The library guardian can store one spell within itself.  Whenever the guardian is targetted with a spell of the fourth level or lower it may, as a reaction, choose to store the spell.  A stored spell has no immediate effect, but the guardian may later cast the spell with the same paramaters (except the target) on any target within range of the spell.  The guardian may only store one spell this way and cannot store another spell until the first spell is cast.
