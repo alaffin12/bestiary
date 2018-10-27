@@ -26,3 +26,5 @@
   tag: plant
 - name: Undead
   tag: undead
+- name: Homebrew
+  tag: homebrew
