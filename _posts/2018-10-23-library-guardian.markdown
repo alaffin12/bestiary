@@ -27,11 +27,11 @@ tags: [large, homebrew, cr7, homebrew]
 
 **Challenge** 7 (2,900 XP)
 
-***Bound.*** The library guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
+***Bound.*** The library guardian is magically bound its library.  While within its library, its movement cannot be restricted by any magical means.  
 
 ***Regeneration.*** The library guardian regains 10 hit points at the start of its turn if it has at least 1 hit. point.
 
-***Spell Storing.*** A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
+***Spell Storing.*** The library guardian can store one spell within itself.  Whenever the guardian is targetted with a spell of the fourth level or lower it may, as a reaction, choose to store the spell.  A stored spell has no immediate effect, but the guardian may later cast the spell with the same paramaters (except the target) on any target within range of the spell.  The guardian may only store one spell this way and cannot store another spell until the first spell is cast.
 
 **Actions**
 
