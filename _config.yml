@@ -21,3 +21,5 @@ defaults:
       type: "posts"
     values:
       category: "creatures"
+
+theme: jekyll-theme-merlot
