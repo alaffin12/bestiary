@@ -2,7 +2,7 @@
 layout: post
 title: "Ungoliat"
 date: 2018-10-28
-tags: [gargantuan, homebrew, cr6, homebrew]
+tags: [gargantuan, beast, cr6, homebrew]
 ---
 
 **Gargantuan beast, unaligned**

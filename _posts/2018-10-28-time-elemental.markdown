@@ -2,7 +2,7 @@
 layout: post
 title: "Time Elemental"
 date: 2018-10-28
-tags: [large, homebrew, cr5, homebrew]
+tags: [large, elemental, cr5, homebrew]
 ---
 
 **Large elemental, neutral**
