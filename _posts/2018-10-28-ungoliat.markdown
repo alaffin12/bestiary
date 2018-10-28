@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Ungoliat"
+date: 2018-10-28
+tags: [gargantuan, homebrew, cr6, homebrew]
+---
+
+**Gargantuan beast, unaligned**
+
+**Armor Class** 18
+
+**Hit Points** 76 (13d10+4)
+
+**Speed** 30 ft., climb 30 ft.
+
+|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 16 (+3) | 16 (+3) | 18 (+4) | 13 (+2) | 14 (+2) | 12 (+1) |
+
+**Saves** Strength +6, Dexterity +6
+
+**Skills** Intimidation +10, Stealth +5
+
+**Damage Vulnrabilities** Fire
+
+**Damage Immunities** Acid, Force, Poison
+
+**Condition Immunities** Frightened, Grappled, Paralyzed, Poisoned
+
+**Senses** Blindsight 10 ft., Darkvision 60 ft.
+
+**Challenge** 6
+
+***Spider Climb.*** The ungoliat can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+***Web Sense.*** While in contact with a web, the ungoliat knows the exact location of any other creature in contact with the same web.
+
+***Web Walker.*** The ungoliat ignores movement restrictions caused by webbing.
+
+**Actions**
+
+**Multiattack** The ungoliat makes three attacks, with a maximum of one bite attack and one web attack.  If an ungoliat has another creature grappled it loses one of its attacks until the grapple has ended.
+
+**Claw** Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.  On a successful hit the target is also grappled if it is large or smaller.
+
+**Bite** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage, and the target must succeed on a DC 15 Constitution saving throw or take 9 (2d8) poison damage (half damage on a successful save).  If the poison damage reduces a target to 0 hit points the target is stable but poisoned for one hour, even after regaining hit points and is paralyzed while poisoned this way.
+
+**Web (Recharge 5-6)** Ranged Weapon Attack: +5 to hit, range 30 ft/60 ft., one creature. Hit: The target is restrained by webbing.  As an action the target can make a DC 12 Strength check, bursting the wedding on a success.  The webbing can also be attacked and destroyed (AC 10, HP 5, vulnerable to fire damage, immunity to bludgeoning, poison and psychic damage).
