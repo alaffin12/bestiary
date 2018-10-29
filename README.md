@@ -1,8 +1,5 @@
 # Bestiary
-# Testing
-Bestiary is a mobile-friendly 5e compendium of creatures that organizes them in various classifications and strengths.
-
-See the latest compiled build here: [http://chisaipete.github.io/bestiary/](http://chisaipete.github.io/bestiary/)
+Bestiary is a mobile-friendly 5e compendium of creatures that organizes them in various classifications and strengths.  99% of this is based on the work of others (notably chisaipete), however I created a fork to store some homebrew monsters alongside the other content.  For the latest compiled version of the original please head here: [http://chisaipete.github.io/bestiary/](http://chisaipete.github.io/bestiary/)
 
 ## To Do
 * Sort by location, sub-types, tags, CR, level, etc.
@@ -21,5 +18,4 @@ I've edited _config.yml for my own build purposes, but if you've got [Jekyll](ht
 `jekyll serve -Vw --no-watch --baseurl ""`
 
 ## Thanks
-
 Shoutout to Saph of http://ephe.github.io/grimoire from whom I've shamelessly borrowed the majority of the codebase
