@@ -31,9 +31,9 @@ tags: [huge, elemental, cr10, homebrew]
 
 **Challenge** 10 (1,800 XP)
 
-**Phase.** Time Elementals can move by altering the flow of time, seeming to disappear from one location and re-appearing in another.  Moving in such a way does not provoke an attack of opportunity
+***Phase.*** Time Elementals can move by altering the flow of time, seeming to disappear from one location and re-appearing in another.  Moving in such a way does not provoke an attack of opportunity
 
-**Temporal Instability** Any creature that passes through the space occupied by a greater time elemental or strikes it with a melee attack while within 5ft of the elemental takes 1d12 force damage from the temporal shear.
+***Temporal Instability*** Any creature that passes through the space occupied by a greater time elemental or strikes it with a melee attack while within 5ft of the elemental takes 1d12 force damage from the temporal shear.
 
 **Actions**
 

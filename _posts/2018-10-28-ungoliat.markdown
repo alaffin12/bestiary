@@ -21,7 +21,7 @@ tags: [gargantuan, beast, cr6, homebrew]
 
 **Skills** Intimidation +10, Stealth +5
 
-**Damage Vulnrabilities** Fire
+**Damage Vulnerabilities** Fire
 
 **Damage Immunities** Acid, Force, Poison
 

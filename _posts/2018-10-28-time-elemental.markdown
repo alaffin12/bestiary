@@ -31,7 +31,7 @@ tags: [large, elemental, cr5, homebrew]
 
 **Challenge** 5 (1,800 XP)
 
-**Phase.** Time Elementals can move by altering the flow of time, seeming to disappear from one location and re-appearing in another.  Moving in such a way does not provoke an attack of opportunity
+***Phase.*** Time Elementals can move by altering the flow of time, seeming to disappear from one location and re-appearing in another.  Moving in such a way does not provoke an attack of opportunity
 
 **Actions**
 

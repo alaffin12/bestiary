@@ -15,7 +15,7 @@ tags: [large, construct, cr15, homebrew]
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 26 (+4) | 20 (-1) | 30 (+4) | 15 (-2) | 20 (0) | 12 (-4) |
+| 26 (+8) | 20 (+5) | 30 (+10) | 15 (+2) | 20 (+5) | 12 (+1) |
 
 **Saves** strength +13, constitution +15
 
@@ -33,11 +33,11 @@ tags: [large, construct, cr15, homebrew]
 
 **Challenge** 15
 
-**Antimagic Susceptibility.** Because the Time Guardians is coaleced elemental time within the physical form of a suit of armour, it is particularily vulnerable to effects that disrupt magic.  An anti-magic field disables it completely (while it is within the field's effect) and, if targeted with a dispel magic spell, it wil be forced to make a Constitution save versus the casters DC or be disabled for one minute.  A DC 20 Inteligence (Arcana) check reveals this weakness.
+***Antimagic Susceptibility.*** Because the Time Guardians is coaleced elemental time within the physical form of a suit of armour, it is particularily vulnerable to effects that disrupt magic.  An anti-magic field disables it completely (while it is within the field's effect) and, if targeted with a dispel magic spell, it wil be forced to make a Constitution save versus the casters DC or be disabled for one minute.  A DC 20 Inteligence (Arcana) check reveals this weakness.
 
-**Shielded Mind.** The time guardian is immune to scrying and any effect which would sense its emotions, read its thoughts or detect its location.
+***Shielded Mind.*** The time guardian is immune to scrying and any effect which would sense its emotions, read its thoughts or detect its location.
 
-**Legendary Resistance (3/day)** If the Time Guardian fails a saving throw it can choose to succeed instead.
+***Legendary Resistance (3/day)*** If the Time Guardian fails a saving throw it can choose to succeed instead.
 
 **Actions**
 
