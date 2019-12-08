@@ -33,6 +33,8 @@ tags: [gargantuan, dragon, cr20, monster-manual]
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
+***Innate Spellcaster*** Ancient White Dragons are innately magical creatures and can cast each of Dispel Magic and Freezing Sphere once per day without material components.  Their bonus to hit with spell attacks is +8 and it's spell save DC is 16.
+
 **Actions**
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
