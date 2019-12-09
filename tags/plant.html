@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">Oozes</h1>
+  <h1 class="page-heading">Plant</h1>
   <!--<p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>-->
   <!--<p id="sortBy">Sort By: <a href="{{site.baseurl}}/">CR</a> <a href="{{site.baseurl}}/byname">name</a></p>-->
   <dl class="tag-list">
@@ -20,7 +20,7 @@ layout: default
     <ul class="post-list jetsContent">
       {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
       {% for post in post_list %}
-      {% if post.tags contains "aberation" %}
+      {% if post.tags contains "plant" %}
         <li>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
