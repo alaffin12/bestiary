@@ -49,3 +49,12 @@ tags: [gargantuan, dragon, cr20, monster-manual]
 
 ***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (l6d8) cold damage on a failed save, or half as much damage on a successful one.
 
+**Legendary Actions**
+The ancient white dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature’s turn. The ancient white dragon regains spent legendary actions at the start of its turn.
+
+***Detect.*** The dragon makes a Wisdom (Perception) check.
+
+***Tail Attack.*** The dragon makes a tail attack.
+
+***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
